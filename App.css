@@ -1,0 +1,76 @@
+.red{
+        background-image:linear-gradient(to right,#fffbd5,#b20a2c);
+        height:600px;
+        width:1260px;
+}
+.box{
+    text-align:center;
+    padding:25px;
+
+}
+
+th{
+    font-size:20px;
+    padding:2px;
+}
+td{
+    text-align:center;
+    margin:2px;
+}
+label{
+    padding:10px;
+}
+
+input{
+    margin:5px;
+    width:300px;
+    height:20px;
+    border:inset red 5px;
+    background-color:black;
+    color:white;
+
+}
+form{
+    border:inset red 5px;
+    background-color:crimson;
+    margin:10px;
+    margin-top:-30px;
+    height:350px;
+    width:1130px;
+}
+.result{
+border:red outset 5px;
+margin:10px;
+margin-left:60px;
+background-color:crimson;
+height:100px;
+width:1140px;
+}
+.title{
+    padding:-10px;
+    font-size:20px;
+
+}
+.title h3{
+    padding:35px;
+}
+.values{
+    color:white;
+    font-size:20px;
+}
+.mybutton{
+    padding:10px;
+    width:230px;
+    margin:10px;
+}
+.calculate{
+    background-color:lightgreen;
+    color:black;
+    border:inset red 5px;
+    
+}
+.clear{
+    background-color:red;
+    color:black;
+    border:inset crimson 5px;
+}
